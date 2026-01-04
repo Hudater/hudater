@@ -2,12 +2,16 @@
 
 #### Wannabe DevOps Engineer and a k8s fearing student
 
+## My Multi-Tenancy Homelab architecture, do take a look :)
+
 [![My Homelab](./Hudater_Homelab_v1.0.svg)](https://blog.hudater.dev/posts/homelab/)
 
-<!--
-## 🌐 Socials:
+## Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=logo=linkedin&logoColor=white)](https://linkedin.com/in/hudater) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=logo=gmail&logoColor=white)](mailto:harshit@hudater.dev) [![Documentation](https://img.shields.io/badge/Docs-3D4E85?style=for-the-badge)](https://docs.hudater.dev/) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hudater)
+[![email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshit@hudater.dev)
+[![Blog Site](https://img.shields.io/badge/My_Blog-1E1E1E?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.hudater.dev/)
+[![Documentation Site](https://img.shields.io/badge/My_Documentation-3D4E85?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.hudater.dev/)
 
 # I have practical experience with:
 
@@ -44,7 +48,6 @@
 ![Unbound](https://img.shields.io/badge/Unbound-1B7887?style=for-the-badge)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 
-
 ## Cloud Platforms
 
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-C64533?style=for-the-badge&logo=oracle&logoColor=white)
@@ -55,6 +58,7 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 ## Monitoring and Observability
+
 ![Dynatrace](https://img.shields.io/badge/dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Dash0](https://img.shields.io/badge/dash0-EA3D3B?style=for-the-badge&logo=dash0&logoColor=white)
 ![Randoli](https://img.shields.io/badge/randoli-123270?style=for-the-badge&logo=randoli&logoColor=white)

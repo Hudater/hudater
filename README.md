@@ -91,16 +91,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=hudater&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hudater&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hudater&theme=rose_pine)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hudater&theme=rose_pine)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hudater&theme=rose_pine)
 
-![](https://github-profile-trophy.vercel.app/?username=hudater&theme=rose_pine&no-frame=false&no-bg=true&margin-w=4&title=-Reviews)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=hudater&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=hudater&icon=1&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

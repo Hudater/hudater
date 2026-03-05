@@ -4,6 +4,10 @@
 
 ## My Multi-Tenancy Homelab architecture, do take a look :)
 
+[![Portfolio status](https://img.shields.io/website?label=portfolio&color=4051B5&style=for-the-badge&url=https%3A%2F%2Fhudater.dev%2F)](https://hudater.dev/)
+[![Live Infrastrucute Status](https://img.shields.io/website?label=Live%20Infrastructure%20Status&color=4051B5&style=for-the-badge&url=https%3A%2F%2Fhudater.dev%2F)](https://status.hudater.dev/)
+[![Linkme](https://img.shields.io/website?label=Linkme&color=4051B5&style=for-the-badge&url=https%3A%2F%2Fhudater.dev%2F)](https://links.hudater.dev/)
+
 [![My Homelab](./Hudater_Homelab_v1.0.svg)](https://blog.hudater.dev/posts/homelab/)
 
 ## Socials:

@@ -6,7 +6,8 @@ Operating a **self-hosted hybrid infrastructure platform** combining on-prem com
 
 Infrastructure currently handles **[~500k DNS queries with ~40 ms median recursive resolution latency](https://www.linkedin.com/posts/hudater_devops-sre-observability-activity-7434925064304803840-8Hh3)** across self-hosted recursive resolvers and multiple services across private and public networks.
 
-**Currently seeking DevOps / SRE internship opportunities.**
+<!-- **Currently seeking DevOps / SRE internship opportunities.** -->
+**Currently DevOps Intern @Unstop**
 
 [![Portfolio status](https://img.shields.io/website?label=portfolio\&color=4051B5\&style=for-the-badge\&url=https%3A%2F%2Fhudater.dev%2F)](https://hudater.dev/)
 [![Live Infrastructure Status](https://img.shields.io/website?label=Infrastructure%20Status\&color=4051B5\&style=for-the-badge\&url=https%3A%2F%2Fhudater.dev%2F)](https://status.hudater.dev/)

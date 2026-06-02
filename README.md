@@ -12,7 +12,7 @@ Infrastructure currently handles **[~500k DNS queries with ~40 ms median recursi
 [![Portfolio status](https://img.shields.io/website?label=portfolio\&color=4051B5\&style=for-the-badge\&url=https%3A%2F%2Fhudater.dev%2F)](https://hudater.dev/)
 [![Live Infrastructure Status](https://img.shields.io/website?label=Infrastructure%20Status\&color=4051B5\&style=for-the-badge\&url=https%3A%2F%2Fhudater.dev%2F)](https://status.hudater.dev/)
 [![Developer Links](https://img.shields.io/website?label=Developer%20Links\&color=4051B5\&style=for-the-badge\&url=https%3A%2F%2Fhudater.dev%2F)](https://links.hudater.dev/)
-[![Resume](https://img.shields.io/website?label=resume\&color=4051B5\&style=for-the-badge\&url=https%3A%2F%2Fhudater.dev%2F)](https://links.hudater.dev/assets/Censored_Harshit_SRE_Infrastructure_DevOps_Resume.pdf)
+[![Resume](https://img.shields.io/website?label=resume\&color=4051B5\&style=for-the-badge\&url=https%3A%2F%2Fhudater.dev%2F)](https://resume.hudater.dev/)
 
 ---
 
